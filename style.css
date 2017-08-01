@@ -1,0 +1,47 @@
+body{
+padding: -3px;
+
+}
+   .row{
+   padding:1px;
+   margin:9px;
+   }
+   img{
+   width: 100%;
+   }
+   .container {
+   padding-right: 34px;
+   padding-left: 1px;
+   padding-top: 10px;
+   margin-right: auto;
+   margin-left: auto;
+   border: 12px outset #99A3A0;
+   background: #E1F0EB;
+   width: auto;
+   }
+   .flex-container {
+   display: -webkit-flex; /* Safari */
+   display: flex;
+   }
+   .glyphicon{
+   color: #99A3A0;
+   font-size: 110px;
+   padding-left: 50px;
+   }
+   p{
+   text-align: center;
+   font-size: 35px;
+   }
+   .p1{
+   text-align:center;
+   font-size: 35px;
+   }
+   .color1{
+   color: #02b3e4;
+   }
+   .color2{
+   color: #7d97ad;
+   }
+   .color3{
+   color: ##7d97ad;
+   }
