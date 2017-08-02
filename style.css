@@ -1,7 +1,3 @@
-body{
-padding: -3px;
-
-}
    .row{
    padding:1px;
    margin:9px;
@@ -43,5 +39,5 @@ padding: -3px;
    color: #7d97ad;
    }
    .color3{
-   color: ##7d97ad;
+   color: #7d97ad;
    }
